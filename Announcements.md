@@ -4,6 +4,11 @@ title: Announcements
 permalink: /announcements/
 order: 1
 announcements:
+    - title: "Upload Your Zoho Profile Picture"
+      date: "17th Jan 2026"
+      description: "In this activity, students are required to set a clear and professional profile picture in their Zoho account so that it is visible to everyone."
+      content: "Explore your Zoho account settings and look for options related to your profile and visibility. You may need to search online or refer to Zoho’s official help resources to find where profile pictures and privacy settings are managed. Ensure your uploaded photo clearly shows your face and is visible to others on the platform."
+
     # - title: ""
     #   date: ""
     #   description: ""

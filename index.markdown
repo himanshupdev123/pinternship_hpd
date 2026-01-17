@@ -19,7 +19,7 @@ layout: home
 {% assign announcements_page = site.pages | where: "permalink", "/announcements/" | first %}
 {% for announcement in announcements_page.announcements limit:2 %}
 {{ forloop.index }}. **[{{ announcement.title }}](./announcements/)** ({{ announcement.date }})  
-   {{ announcement.description | truncatewords: 20 }}
+   {{ announcement.description | truncatewords: 30 }}
 {% endfor %}
 
 ➡️ [View All Announcements](./announcements/)
