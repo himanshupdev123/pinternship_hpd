@@ -1030,12 +1030,11 @@ Brief description of what your video covers and what viewers will learn along wi
 - **Health Points**: View current HP and leaderboard
 - **Endorsement Network**: Visualize connections
 
-### Repository Links:
+### Links:
 - **Main Pinternship Repository**: [https://github.com/sudarshansudarshan/pinternship](https://github.com/sudarshansudarshan/pinternship){:target="_blank"}
 - **Program Homepage**: [https://sudarshansudarshan.github.io/pinternship](https://sudarshansudarshan.github.io/pinternship){:target="_blank"}
-- **Projects**: [Access Here](../projects/)
-- **FAQ**: [Complete FAQ](../faq/)
-- **Git Guide**: [GitHub Guide](../git-guide/)
+- **Projects**: [Access Here](https://sudarshansudarshan.github.io/pinternship/projects/)
+- **FAQ**: [Complete FAQ](https://sudarshansudarshan.github.io/pinternship/faq/)
 
 ### Teaching Team:
 | Name | Email |
