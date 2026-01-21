@@ -11,6 +11,84 @@ Namaste Pinterns !
 
 Welcome to your comprehensive guide for the **Pinternship Full-Stack Development Internship Program**! This handbook consolidates everything you need to know to successfully navigate and complete your internship journey.
 
+## Table of Contents
+
+### 1. [Program Overview](#-what-is-pinternship)
+- 1.1 [What is Pinternship?](#-what-is-pinternship)
+- 1.2 [Key Features](#key-features)
+
+### 2. [Program Structure](#-program-structure-the-three-phases)
+- 2.1 [Phase 1: Core Learning - ViBe Training](#phase-1-core-learning---vibe-training-required)
+- 2.2 [Phase 2: Advanced Learning - Case Studies](#phase-2-advanced-learning---case-studies-required)
+- 2.3 [Phase 3: Practical Learning - Projects](#phase-3-practical-learning---projects-required)
+
+### 3. [Essential Resources](#-important-resources)
+- 3.1 [Key Links](#key-links)
+- 3.2 [Support Contacts](#support-contacts)
+
+### 4. [ViBe Platform Guide](#vibe-platform-troubleshooting)
+- 4.1 [Login Issues](#no-course-enrolled)
+- 4.2 [Video Playback Problems](#videos-stuck-or-repeating)
+- 4.3 [Progress Tracking Issues](#vibe-progress-not-reflecting-as-100-even-after-completing-100)
+- 4.4 [Troubleshooting Steps](#troubleshooting-video-issues-like-video-stuck-looping-skipping)
+
+### 5. [Case Studies Phase](#phase-2-the-advanced-learningcase-study-phase)
+- 5.1 [Getting Started](#how-to-get-started-with-case-studies)
+- 5.2 [Submission Process](#submitting-the-case-studies)
+
+### 6. [Projects Phase](#phase-3-the-applicationprojects-phase)
+- 6.1 [Project Overview](#phase-3-the-applicationprojects-phase)
+- 6.2 [Ticket Holders Recognition](#ticket-holders-gold-silver-bronze)
+
+### 7. [Endorsement System](#parallel-phases-endorsement-phase)
+- 7.1 [Self-Healing Endorsement Network](#parallel-phases-endorsement-phase)
+- 7.2 [Endorsement Rules](#endorsement-system-rules)
+- 7.3 [Audit Process](#audits)
+- 7.4 [Incentives](#incentives)
+- 7.5 [Endorsement Form](#endorsement-form)
+- 7.6 [Tracking System](#tracking-endorsements)
+
+### 8. [Health Points System](#health-points)
+- 8.1 [What are Health Points?](#health-points)
+- 8.2 [How HP Works](#health-points-system-overview)
+- 8.3 [Individual Health Points](#earning-and-losing-individual-health-points)
+  - 8.3.1 [Earning HP](#earning-individual-health-points)
+  - 8.3.2 [Losing HP](#losing-individual-health-points)
+- 8.4 [Class Health Points](#class-health-points)
+
+### 9. [Activities](#activities)
+- 9.1 [LinkedIn Post Activity](#linkedin-post)
+- 9.2 [Blog Writing](#blogs)
+  - 9.2.1 [Blog Guidelines](#blog-writing-guidelines)
+  - 9.2.2 [Submission Instructions](#blog-submission-instructions)
+  - 9.2.3 [Published Blogs](#published-blogs)
+- 9.3 [Vlog Creation](#vlogs)
+  - 9.3.1 [Vlog Guidelines](#vlog-creation-guidelines)
+  - 9.3.2 [Submission Instructions](#vlog-submission-instructions)
+  - 9.3.3 [Published Vlogs](#published-vlogs)
+
+### 10. [Communication Channels](#cliq-channel)
+- 10.1 [Joining Cliq Channel](#cliq-channel)
+- 10.2 [College Email Setup](#to-join-cliq-with-college-mail-id)
+- 10.3 [Profile Picture Requirements](#updating-profile-picture)
+- 10.4 [Communication Guidelines](#cliq-communication-rules)
+
+### 11. [Support & Policies](#protocols-and-policies)
+- 11.1 [Support Protocol](#support-and-resolution-protocol)
+- 11.2 [Broadcast Channel](#broadcast-channel)
+- 11.3 [Discussion Channel](#discussion-channel)
+- 11.4 [Support Desk](#support-desk)
+- 11.5 [Escalation Channel](#escalation-channel)
+- 11.6 [Emoji Usage Guidelines](#usage-of-emojis)
+
+### 12. [Ejection Policy](#ejection-policy)
+- 12.1 [Culture of Momentum](#a-culture-of-momentum-the-ejection-policy)
+- 12.2 [Forward Eject](#forward-eject-the-ascent)
+- 12.3 [Backward Eject](#backward-eject-the-departure)
+- 12.4 [Progress Algorithm](#the-progress-algorithm)
+
+---
+
 ---
 
 ## 🎯 What is Pinternship?
@@ -63,11 +141,11 @@ The internship is organized into three mandatory components that together form a
 ### Support Contacts:
 - **Primary Support**: pinternship-support@vicharanashala.zohodesk.in
 - **Response Time**: 2 hours (9 AM - 9 PM)
-- **Escalation**: Pinternship - Escalation Cliq channel
+- **Escalation**: Pinternship - Esil ID may result in access issues or missing course visibility.
 
----
+# No course enrolled
+If you see “No course enrolled”:
 
-*This is a simplified version of the complete handbook. For detailed information, please refer to the main Handbook.md file.*
 ->Make sure you are logged in with the correct registered email ID.
 
 ->Check if your college email has multiple aliases and try the correct one.
