@@ -17,8 +17,6 @@ Welcome to the Pinternship, this handbook serves as your first hand source of he
 
 ### 2. [Program Phases](#program-phases)
 - 2.1 [Phase 1: Core Learning - ViBe Training](#phase-1-core-learning---vibe-training-required)
-- 2.2 [Phase 2: Advanced Learning - Case Studies](#phase-2-advanced-learning---case-studies-required)
-- 2.3 [Phase 3: Practical Learning - Projects](#phase-3-practical-learning---projects-required)
 
 ### 3. [Essential Resources](#-important-resources)
 ### 3. [Essential Resources](#-important-resources)
@@ -31,11 +29,11 @@ Welcome to the Pinternship, this handbook serves as your first hand source of he
 - 4.3 [Progress Tracking Issues](#vibe-progress-not-reflecting-as-100-even-after-completing-100)
 - 4.4 [Troubleshooting Steps](#troubleshooting-video-issues-like-video-stuck-looping-skipping)
 
-### 5. [Case Studies Phase](#phase-2-the-advanced-learningcase-study-phase)
+### 5. [Phase 2: The Advanced Learning:(Case study phase)](#phase-2-the-advanced-learningcase-study-phase)
 - 5.1 [Getting Started](#how-to-get-started-with-case-studies)
 - 5.2 [Submission Process](#submitting-the-case-studies)
 
-### 6. [Projects Phase](#phase-3-the-applicationprojects-phase)
+### 6. [Phase 3: The Application:(Projects phase)](#phase-3-the-applicationprojects-phase)
 - 6.1 [Project Overview](#phase-3-the-applicationprojects-phase)
 - 6.2 [Ticket Holders Recognition](#ticket-holders-gold-silver-bronze)
 
@@ -101,7 +99,6 @@ This internship is designed for learners who genuinely want to understand how mo
 **Duration** : 14 Jan 2026 to 24 March 2026 (10 weeks)
 **Requirements** : Laptop/Desktop with a stable internet connection.
 **Standup sessions**:  standups that  scheduled for every Monday, Wednesday and Friday at 8:45 PM. Attendance is tracked for all the live session activities. Attendance will be counted only if your camera remains ON for the entire Zoom session. If the camera is not switched on for a sustained duration, the session may not be considered as full attendance.
----
 
 ##  Program Phases
 
@@ -113,30 +110,6 @@ This program follows a carefully structured learning path that covers the comple
 You will begin with the basics of JavaScript, building a strong foundation in core programming concepts. You will then move on to TypeScript, with a focus on writing safe, manageable, and more predictable JavaScript. After that, you will learn React to build interactive, component-driven user interfaces. On the backend, the program introduces MongoDB for designing and managing scalable databases, followed by Express.js for handling APIs and server-side logic.
 
 As you progress, you will also work with concepts such as state management, RESTful API design, middleware usage, database queries and aggregations, performance optimization, and testing. These topics are introduced gradually and reinforced through practical implementation rather than isolated theory.
-
-### Phase 2: Advanced Learning - Case Studies (Required)
-Case studies are tightly aligned with the ViBe training modules and are meant to strengthen understanding through application.
-Each case study presents a problem to solve, explains the underlying concepts, and walks through practical implementation while highlighting best practices and commonly used patterns.
-
-
-
-### Phase 3: Practical Learning - Projects (Required)
-Projects form a core part of the learning experience. Instead of standalone assignments, you will contribute to ongoing real-world projects, working on specific features alongside our development team. This hands-on approach allows you to gain practical experience with production-level code, workflows, and collaboration practices. These contributions are designed to be portfolio-worthy and reflect the skills and expectations of a full-stack developer
-
----
-
-## 📋 Important Resources
-
-### Key Links:
-- **Projects**: [Access Here](https://sudarshansudarshan.github.io/pinternship/projects/){:target="_blank"}
-- **FAQ**: [Complete FAQ](https://sudarshansudarshan.github.io/pinternship/faq/){:target="_blank"}
-- **ViBe Platform**: Your primary learning hub
-- **Case Studies**: Available on the main website
-
-### Support Contacts:
-- **Primary Support**: pinternship-support@vicharanashala.zohodesk.in
-- **Response Time**: 2 hours (9 AM - 9 PM)
-- **Escalation**: Pinternship - Esil ID may result in access issues or missing course visibility.
 
 # No course enrolled
 If you see “No course enrolled”:
