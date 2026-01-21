@@ -1,16 +1,15 @@
 ---
 layout: page
 title: Complete Handbook
-permalink: /handbook/
+permalink: /Complete_handbook/
 toc: true
 ---
 
-* TOC
-{:toc}
+# Pinternship Partner - A Complete Handbook
 
-# 📚 Pinternship Complete Handbook
+Namaste Pinterns !
 
-Welcome to your comprehensive guide for the **Pinternship Program**! This handbook consolidates everything you need to know to successfully navigate and complete your internship journey.
+Welcome to your comprehensive guide for the **Pinternship Full-Stack Development Internship Program**! This handbook consolidates everything you need to know to successfully navigate and complete your internship journey.
 
 ---
 
@@ -34,617 +33,552 @@ This internship is designed for learners who genuinely want to understand how mo
 
 ## 🚀 Program Structure: The Three Phases
 
-<img src="../Genie-phases.png" alt="Pinternship phases" style="width: 100%; max-width: 600px; margin: 20px auto; display: block;">
-
 The internship is organized into three mandatory components that together form a complete learning journey:
 
 ### Phase 1: Core Learning - ViBe Training (Required)
-
 **What it is**: Building strong fundamentals through the ViBe platform
 **What you'll learn**: TypeScript, React, Express.js, and MongoDB
 **Goal**: Develop a clear understanding of core concepts before moving to complex applications
 
-### What You'll Learn - Detailed Curriculum
-
-This program follows a carefully structured learning path that covers the complete **MERN stack** along with development practices used in modern software teams.
-
-**Learning Progression**:
-1. **JavaScript Fundamentals**: Building strong foundation in core programming concepts
-2. **TypeScript**: Focus on writing safe, manageable, and predictable JavaScript
-3. **React**: Build interactive, component-driven user interfaces
-4. **MongoDB**: Design and manage scalable databases
-5. **Express.js**: Handle APIs and server-side logic
-
-**Advanced Concepts Covered**:
-- State management
-- RESTful API design
-- Middleware usage
-- Database queries and aggregations
-- Performance optimization
-- Testing methodologies
-
-**Key Points**:
-- All modules must be completed on the ViBe platform
-- Videos must be watched in sequence (no skipping)
-- Camera and microphone permissions required
-- Progress tracked automatically
-- Completion of all ViBe modules is mandatorynts**:
-- All modules must be completed on the ViBe platform
-- Videos must be watched in sequence (no skipping)
-- Camera and microphone permissions required
-- Progress tracked automatically
-- Completion of all ViBe modules is mandatory
-
 ### Phase 2: Advanced Learning - Case Studies (Required)
-
 **What it is**: Real-world problem-solving through hands-on coding
 **What you'll do**: Work through structured case studies across different stack areas
 **Goal**: Apply ViBe concepts through practical implementation
 
-**Available Case Studies**:
-- **TypeScript Fundamentals**: Core language concepts and type safety
-- **React Development**: Component-driven UI development
-- **Express.js Backend**: Server-side API development
-- **MongoDB Database**: Database design and operations
-
-**Key Points**:
-- All case studies must be completed
-- Submit solutions for each lesson
-- Collaborate with peers in breakout rooms
-- Getting stuck is normal - ask questions!
-
 ### Phase 3: Practical Learning - Projects (Required)
-
 **What it is**: Contributing to real-world applications
 **What you'll do**: Work with VLED Lab developers on actual projects
 **Goal**: Gain production-level experience and build portfolio-worthy work
 
-**Key Points**:
-- Contribute to ongoing open-source projects
-- Work alongside experienced developers
-- Build features for real applications
-- Portfolio-worthy contributions
+---
 
-**Project Philosophy**: Instead of standalone assignments, you contribute to **ongoing real-world projects**, working on specific features alongside our development team. This hands-on approach provides practical experience with production-level code, workflows, and collaboration practices.
+## 📋 Important Resources
 
-**Available Project Areas**:
-- Innovative projects applying modern web development technologies
-- Real-world problem-solving applications
-- Full-stack development from system architecture to user experience
-- Production-ready applications demonstrating comprehensive skills
+### Key Links:
+- **Projects**: [Access Here](https://sudarshansudarshan.github.io/pinternship/projects/){:target="_blank"}
+- **FAQ**: [Complete FAQ](https://sudarshansudarshan.github.io/pinternship/faq/){:target="_blank"}
+- **ViBe Platform**: Your primary learning hub
+- **Case Studies**: Available on the main website
 
-**Project Expectations**:
-- Understand feature requirements clearly
-- Take challenges one at a time
-- Follow coding best practices
-- Communicate regularly with mentors
-- Demonstrate ability to work across entire stack (frontend to backend to databases)
+### Support Contacts:
+- **Primary Support**: pinternship-support@vicharanashala.zohodesk.in
+- **Response Time**: 2 hours (9 AM - 9 PM)
+- **Escalation**: Pinternship - Escalation Cliq channel
 
 ---
 
-## 🛠️ Getting Started: Step-by-Step Setup
-
-### Step 1: ViBe Platform Setup
-
-1. **Check your email** for the ViBe invite link
-2. **Click the invite link** and select "Continue as Student"
-3. **Choose "Continue with Google"**
-4. **Sign in** using the same email ID that received the invite (must be your NPTEL registered email)
-5. **Access your Dashboard** where your enrolled course will be visible
-
-**Important**: 
-- Use the same email ID consistently across all platforms!
-- Only desktop/laptop supported (mobile/tablet not supported)
-- Camera and microphone permissions must be enabled
-- Videos must be watched in well-lit, quiet environment with minimal background noise
-
-**ViBe Troubleshooting**:
-- If you see "No course enrolled": Verify email, check aliases, log out/in, contact support
-- For video issues: Videos are sequential, no skipping allowed, stay on ViBe tab
-- If videos get stuck: Refresh multiple times, check browser console, try different browser
-
-### ViBe Platform - Comprehensive Guide
-
-**What is ViBe?**: Comprehensive Learning Management System delivering education through video-based and multimedia content with AI-powered proctoring for academic integrity.
-
-**Platform Features**:
-- Interactive learning environment
-- Progress tracking and assessments
-- Guided lessons with structured curriculum
-- Prerequisite content to foundational readiness
-- Advanced modules for full-stack development
-
-**Technical Requirements**:
-- Desktop or laptop only (mobile/tablets not supported)
-- Camera and microphone permissions required
-- Stable internet connection
-- Modern browser (Chrome, Firefox, Edge recommended)
-- Well-lit, quiet environment for optimal experience
-
-**Learning Experience**:
-- Videos must be watched fully and in sequence
-- No skipping or tab switching during videos
-- Proper lighting and minimal background noise required
-- Stay on ViBe tab throughout sessions
-- Progress automatically tracked
-
-**ViBe Demo**: [Watch Demo Video](https://www.youtube.com/watch?v=PIIiMWbx2A0&feature=youtu.be){:target="_blank"}
-
-### Step 2: Zoho Cliq Setup (Desktop Only)
-
-1. **Download Zoho Cliq** on your desktop (mobile not supported)
-2. **Check your email** for the Cliq channel invite
-3. **Sign up/log in** using Google with the same email ID
-4. **Navigate to #Channels** in the left sidebar
-5. **Join all channels** starting with "Pinternship"
-6. **Enable Universal Access** (Required for messaging):
-   - Click Profile icon → Admin Panel → Policies
-   - Go to "Channel and Direct Messages Collaboration"
-   - Enable both checkboxes under "Universal Access"
-7. **Update your profile picture** (Mandatory):
-   - Must be a clear, original photograph showing your face
-   - No GenAI images, avatars, cartoons, logos, or group photos
-   - Go to accounts.zoho.com → Settings → Set visibility to "Everyone"
-   - **Penalty**: -10% HP for posting without compliant DP, plus daily -10% HP for continued non-compliance
-
-**Cliq Troubleshooting**:
-- **Can't join channels**: "Collaboration with external users disabled" → Follow Universal Access steps above
-- **Can't send messages**: Update profile picture first, then enable Universal Access
-- **Profile picture issues**: Check visibility settings at accounts.zoho.com, clear browser cache
-
-### Step 3: Development Environment
-
-**Required Tools**:
-- Desktop or laptop (mandatory)
-- VS Code or preferred code editor
-- Stable internet connection
-- Git installed locally
-- GitHub account
-
-**Git Configuration**:
-```bash
-git config --global user.name "Your Name"
-git config --global user.email "your-github-email"
-```
-
-
-## 📋 Attendance & Leave Policy
-
-### Attendance Requirements:
-- **Compulsory attendance** for standups: Monday, Wednesday, Friday at 8:45 PM
-- **Camera must remain ON** for entire Zoom session duration
-- If camera is off for sustained duration, session may not count as full attendance
-- **Daily attendance form**: Fill Google Form from NPTEL offer letter every day (except Sundays)
-- Form should be filled preferably in the evening after completing day's work
-
-### Leave Policy:
-- **One day leave** allowed during internship (discouraged)
-- **Request process**:
-  1. Post in main Cliq Channel stating reason
-  2. Tag @Nitin Sankar A, @Jinal Gupta, @Harshdeep R
-  3. Submit at least one day in advance
-  4. Clearly mention reason and exact date
-- **Your responsibility** to complete missed work on leave day
-
-## 📋 Milestones & Health Points System
-
-Your progress is tracked through milestones that contribute to your overall Health Points (HP). **Health Points are the core measurement of your performance and engagement** - they determine your standing in the cohort, eligibility for opportunities, and program completion status.
-
-| Milestone | Deadline | Health Points |
-|-----------|----------|---------------|
-| 25% ViBe completion | 1 week | 2.5% |
-| 50% ViBe completion | 2 weeks | 5% |
-| 75% ViBe completion | 3 weeks | 7.5% |
-| 100% ViBe completion | 4 weeks | 10% |
-| Case Studies (6 submissions) | 4 weeks | 5% |
-| Case Studies (12 submissions) | 5 weeks | 5% |
-| Case Studies (18 submissions) | 6 weeks | 7.5% |
-| Case Studies (All submissions) | 7 weeks | 10% |
-| Projects | 8 weeks | 20% (completion) + 10% (implementation) + 5% (design) |
-
-**Minimum Progress Requirement**: 3.33% daily progress on ViBe platform
-
----
-
-## 💯 Health Points (HP) System - The Core of Your Progress
-
-Health Points (HP) are the **central tracking mechanism** for your performance and engagement throughout the Pinternship program. Your HP directly impacts your standing in the cohort and determines your eligibility for various opportunities.
-
-### What are Health Points?
-Health Points represent your **overall performance score** based on:
-- **Progress milestones** achieved
-- **Activity participation** and completion
-- **Community engagement** and helping peers
-- **Quality of submissions** and work
-- **Consistency** in learning and participation
-
-### How to Earn Health Points
-
-**Milestone-Based HP (Automatic)**:
-- 25% ViBe completion (1 week): **+2.5% HP**
-- 50% ViBe completion (2 weeks): **+5% HP**
-- 75% ViBe completion (3 weeks): **+7.5% HP**
-- 100% ViBe completion (4 weeks): **+10% HP**
-- Case Studies (6 submissions): **+5% HP**
-- Case Studies (12 submissions): **+5% HP**
-- Case Studies (18 submissions): **+7.5% HP**
-- Case Studies (All submissions): **+10% HP**
-- Projects completion: **+20% HP**
-- Projects implementation: **+10% HP**
-- Projects design & attempt: **+5% HP**
-
-**Endorsement Network HP (Community-Based)**:
-- When someone joins your connected endorsement group: **+5% HP increase**
-- Calculated as: **5% of your current HP + 5% of new member's HP**
-- Encourages building strong, connected networks
-
-**Activity Participation HP**:
-- Helping peers in Cliq channels: **HP boost**
-- Quality blog/vlog submissions: **Recognition HP**
-- Active community participation: **Engagement HP**
-- LinkedIn post activity: **Networking HP**
-
-### How to Lose Health Points
-
-**Attendance & Participation Penalties**:
-- **Missing standups** (Mon/Wed/Fri 8:45 PM): **HP deduction**
-- **Camera off during sessions**: **HP penalty**
-- **Not filling daily NPTEL form**: **HP reduction**
-
-**Profile Picture Violations**:
-- **Posting without compliant DP**: **-10% HP immediately**
-- **Continued non-compliance**: **Additional -10% HP daily**
-
-**Endorsement Network Penalties**:
-- **Audit failures**: **-50% HP penalty** for entire connected group
-- **Poor endorsements**: **Cascade penalties** affecting your network
-- **Floating island status**: **HP nullification** until reconnected to Jedi
-
-**Progress-Based Penalties**:
-- **Below 3.33% daily ViBe progress**: **Risk of ejection**
-- **Bottom 10% engagement**: **Combined with low progress = ejection**
-
-### HP Tracking & Monitoring
-
-**Where to Check Your HP**:
-- **HP Master Sheet**: [Access Here](https://docs.google.com/spreadsheets/d/1H3FVi3JFhw1qol7S7vdYIKzeYfKlGg84eby0psuoQPg/edit?usp=sharing){:target="_blank"}
-- **Dashboard Sheet**: [Access Here](https://docs.google.com/spreadsheets/d/1J0U2-pzfBpfyY9-31lGgVB284gix8KkEeFTdT64qzAo/edit?usp=sharing){:target="_blank"}
-- **Live Dashboard**: Available on website for real-time tracking
-
-**HP Management Forms**:
-- **HP Addition/Deduction Form** (VLED team only): [Access Here](https://forms.gle/guEXxPnZcom5TR1a7){:target="_blank"}
-- **Activity Completion Confirmation**: [Confirm Here](https://forms.gle/7Gkyqfc72Pzrpg5d6){:target="_blank"}
-
-### HP Impact on Your Journey
-
-**High HP Benefits**:
-- **Better cohort standing** and recognition
-- **Increased chances** for recommendations
-- **Forward ejection eligibility** for leadership opportunities
-- **Fellowship nomination** consideration
-- **Network strength** in endorsement system
-
-**Low HP Consequences**:
-- **Risk of backward ejection** if combined with poor engagement
-- **Reduced opportunities** for advanced roles
-- **Audit vulnerability** in endorsement network
-- **Limited recognition** and recommendation chances
-
-### HP Strategy Tips
-
-**Maximize Your HP**:
-1. **Maintain consistent daily progress** (>3.33% on ViBe)
-2. **Complete all milestones on time** for automatic HP boosts
-3. **Help peers actively** in Cliq channels for engagement HP
-4. **Build strong endorsement networks** for network HP bonuses
-5. **Participate in all activities** (blogs, vlogs, LinkedIn posts)
-6. **Attend all standups** with camera on
-7. **Fill NPTEL forms daily** to avoid penalties
-
-**Protect Your HP**:
-1. **Update profile picture immediately** to avoid -10% daily penalties
-2. **Endorse carefully** to avoid audit cascade penalties
-3. **Stay connected to Jedi** in endorsement network
-4. **Maintain attendance** and participation standards
-5. **Avoid floating island status** in endorsements
-
-### HP and Program Completion
-
-**Minimum HP Requirements**:
-- Sufficient HP needed for program completion
-- HP reflects your overall engagement and performance
-- Low HP may impact certification and recommendations
-
-**HP and Recognition**:
-- **Top HP performers** considered for forward ejection
-- **Consistent HP growth** shows sustained engagement
-- **HP trends** more important than absolute numbers
-- **Community HP contributions** valued highly
-
-**Remember**: Health Points are not just numbers - they represent your **commitment, engagement, and growth** throughout the Pinternship journey. Focus on consistent learning and community participation, and your HP will naturally reflect your dedication!
-
----
-
-
-
-## 🎓 The Self-Healing Endorsement Network
-
-After completing case studies, you'll participate in the endorsement system - a peer-driven evaluation framework where interns endorse each other's learning and contributions.
-
-### How It Works:
-- **Students endorse each other** based on knowledge and contribution
-- **All endorsement chains must connect to a "Jedi"** (Gold/Silver/Bronze ticket holders)
-- **Groups not connected to Jedi form "floating islands"** and are inactive
-- **Each student can receive only one endorsement** but give multiple
-- **Every non-Jedi intern must receive one valid endorsement** to complete internship
-
-### Jedi Role:
-- **Jedi holders**: Interns with Silver, Bronze, or Gold tickets
-- **Function**: Act as anchors that validate endorsement chains
-- **Fixed set**: No new Jedi added (Viva sessions discontinued)
-
-### Endorsement Rules:
-- Endorse only after assessing someone's MERN knowledge and case study completion
-- Maintain friendly, collaborative interactions (no hierarchy among co-interns)
-- **Same college endorsements allowed** but have higher audit probability
-- **Tree structure preferred**: Greater length rather than breadth encouraged
-- **Deadline**: Must be completed within given timeframe
-
-### Audit Process:
-- **Conducted by Bhavna** to identify "Needs Improvement" interns
-- **If defaulter found**: Entire endorsement path audited
-- **Penalties**: 50% HP penalty for entire connected group
-- **Removal**: Defaulter and audit failures removed from network
-- **Certification**: Anyone certified as "good" can be endorsed by anyone
-
-### Incentives:
-- When someone joins your connected group, everyone gets **5% HP increase**
-- Calculated as: 5% of current HP + 5% of new member's HP
-- Encourages formation of strong, connected networks
-
-### Data Management:
-- **Three-column dataset**: Member 1 (endorser), Member 2 (endorsed), Action
-- **Actions**: Add (endorsement), Delete (de-endorsement), Needs Improvement (defaulter status)
-- **Submission**: Through official Google Form (link TBD)
-- **Form requirements**: Endorser fills once per endorsement with honest remarks
-
----
-
-## 🆘 Support & Communication Protocol
-
-Follow this escalation sequence for getting help:
-
-### 1. Self-Help Resources
-- Check this handbook
-- Review FAQ section
-- Search recent Cliq discussions
-
-### 2. Peer Discussion
-- Post in **Pinternship - Discussion** Cliq channel
-- Reply within threads to keep organized
-- Help others to earn health points
-
-### 3. Official Support
-- Email: **pinternship-support@vicharanashala.zohodesk.in**
-- Response time: Within 2 hours (9 AM - 9 PM)
-- Include screenshots/recordings for technical issues
-
-### 4. Escalation Channel
-- Use **Pinternship - Escalation** Cliq channel
-- Only after following steps 1-3
-- For critical issues affecting participation
-
-### Cliq Communication Best Practices:
-- Use 👍 to acknowledge queries
-- Use ✅ to mark queries as resolved
-- Use 🔔 for FYI updates
-- Use ➕ if facing same issue
-- Reply within threads, not main channel
-
----
-
-## 🚨 Ejection Policy: Maintaining Momentum
-
-The program uses a dual-path ejection system to maintain high-energy learning environment:
-
-### Forward Eject (The Ascent) 🚀
-- **Top performers** get elevated to leadership roles
-- May receive **fellowship nominations**
-- Based on exceptional performance and sustained momentum
-
-### Backward Eject (The Departure) ⚠️
-- **Inactive participants** are removed to maintain cohort quality
-- **Triggered only if BOTH conditions met simultaneously**:
-  1. Daily ViBe progress below 3.33%
-  2. Overall engagement in bottom 10% of cohort
-- **Automated and objective** - algorithm-based with manual oversight
-- **No appeals allowed** - decisions are final and non-appealable
-- **Different from Discontinuation Policy**: Real-time algorithm vs. administrative level
-
-### Why This Policy Exists:
-- Protects learning ecosystem quality
-- Ensures collaborative activities (peer viva, case studies) are meaningful
-- Maintains program resources for committed learners
-- Prevents prolonged disengagement from diluting experience
-
-**How to Stay Safe**: Maintain steady progress above minimum threshold and stay actively engaged!
-
----
-
-## 🔧 Comprehensive Troubleshooting Guide
-
-### ViBe Platform Issues
-
-**"No course enrolled" message**:
-- Verify you're using the correct registered email (NPTEL email)
-- Check for email aliases and try the correct one
-- Log out and log in again once
-- If issue continues, contact support with registered email ID and screenshot
-
-**Video stuck/looping/skipping**:
-1. **Refresh page** multiple times
-2. **Check browser console**: Right-click → Inspect → Network/Console tab → Watch for errors
-3. **Log out and log in** again
-4. **Try different browser**
-5. **Clear browsing data and cache**, then re-login
-6. **Record the issue** and email to support if persists
-
-**Progress showing less than 100%**:
-- **Known dashboard-level technical issue** being fixed by support team
-- Try refreshing browser and clearing cache once
-- **No further action needed** - will be updated automatically
-- Your completion status will be corrected by support team
-
-**Video playback requirements**:
-- Videos must be watched fully and in sequence (no skipping)
-- Camera and microphone permissions must be enabled
-- Proper lighting and minimal background noise required
-- Stay on ViBe tab (switching tabs may restart video)
-- Poor lighting or high background noise can affect playback
-
-### Cliq Platform Issues
-
-**Can't join channels - "Collaboration disabled" error**:
-1. Click **Profile icon** → **Admin Panel** → **Policies**
-2. Go to **Channel and Direct Messages Collaboration**
-3. Enable **both checkboxes** under **Universal Access**
-4. Refresh Cliq page and try joining again
-5. If persists, email support with screenshot/recording
-
-**Can't send messages in channels**:
-- Follow Universal Access steps above
-- Ensure profile picture is updated (mandatory)
-- Refresh page after changes
-- Email support with screenshot if issue continues
-
-**Profile picture not visible**:
-1. Navigate to **accounts.zoho.com** → **Settings**
-2. Set **Profile Picture Visibility** to **"Everyone"**
-3. **Hard-refresh browser** and **clear cookies/cache**
-4. If no profile pictures visible, may be data center mapping issue
-5. Contact **support@zohocliq.com** for data center issues
-
-**Using college email for Cliq**:
-1. Create account on Zoho Cliq using **college mail ID**
-2. Access college mail inbox
-3. Accept request to join pinternship channels
-4. Use college email throughout the process
-
-### General Technical Issues
-
-**Browser compatibility**:
-- Use desktop/laptop only (mobile/tablet not supported)
-- Recommended browsers: Chrome, Firefox, Edge
-- Ensure browser is updated to latest version
-- Clear cache and cookies regularly
-
-**Internet connectivity**:
-- Stable internet connection required
-- Test connection speed if experiencing issues
-- Use wired connection if WiFi is unstable
-
-**Email consistency issues**:
-- Use same email ID across all platforms (ViBe, Cliq, GitHub, etc.)
-- Must be NPTEL registered email ID
-- Check for email aliases that might cause confusion
-
----
-
-## 📝 Activities & Submissions
-
-### Case Studies Submission
-**What are Case Studies**: Second required component (Advanced Learning) - well-structured, documentation-based lessons for hands-on coding practice.
-
-**Available Case Studies by Technology**:
-- **TypeScript Fundamentals**: Core language concepts and type safety
-- **React Development**: Component-driven UI development  
-- **Express.js Backend**: Server-side API development
-- **MongoDB Database**: Database design and operations
-
-**Submission Process**:
-1. Visit submission form (link will be updated soon)
-2. Fill all required details carefully:
-   - First name, last name, email ID
-   - Technology name and lesson number
-3. Upload solution files (.js, .ts, .txt, .zip supported)
-4. For multi-file lessons (like React), compress into single ZIP file
-5. Submit separately for each lesson completed
-6. Track status on Pinternship Live Dashboard
-
-**Getting Help**:
-- Join breakout rooms during Zoom sessions
-- Collaborate with peers (encouraged for learning)
-- Ask questions on Cliq channels
-
-**What's Next**: After completing case studies, move to Endorsement phase before Projects
-
-### Blog Writing Activity: Call for Blogs
-**Purpose**: Capture your authentic learning experience and reflect on your journey
-
-**What We're Looking For**:
-- Your lived experience - doubts, growth, surprises, takeaways
-- Moments that changed how you think or learn
-- Personal reflection, not a program summary
-- Write from your heart about what stayed with you
-
-**What We're NOT Looking For**:
-- Step-by-step description of what happened
-- Summary of the internship
-- Technical writing focused on skills
-
-**Submission Process**:
-1. **First**: Publish on your [LinkedIn Articles](https://www.linkedin.com/article/new/){:target="_blank"} section
-2. Tag VLED lab and its members in your article
-3. **Then**: Submit as markdown file to [Pinternship GitHub repository](https://github.com/sudarshansudarshan/pinternship){:target="_blank"}
-4. **Folder**: Place in `_blogs/` folder
-5. **Naming**: `Name_B_PinternshipID.md` (e.g., `Mohit_B_Pinternship12345.md`)
-
-**File Structure**:
+*This is a simplified version of the complete handbook. For detailed information, please refer to the main Handbook.md file.*
+->Make sure you are logged in with the correct registered email ID.
+
+->Check if your college email has multiple aliases and try the correct one.
+
+->Log out and log in again once.
+
+->If the issue continues, contact support with your registered email ID and a screenshot.
+
+# videos stuck or repeating:
+This may happen due to ViBe’s monitored learning system. Common reasons include:
+
+->Videos must be watched fully and in sequence (no skipping).
+
+->Camera and microphone permissions must be enabled.
+
+->Poor lighting or high background noise can affect playback.
+
+->Switching tabs or staying idle may restart the video.
+
+✅ For smooth playback, stay on the ViBe tab, keep your camera on, and watch videos in a quiet, well-lit environment.
+
+**mobile or tablet is not supported and only desktop/laptop is supported**
+
+# troubleshooting video issues like video stuck, looping, skipping:
+
+Try these troubleshooting steps in order:
+
+1. **Refresh the page** and check multiple times
+2. **Inspect browser console**: Right-click → Inspect → Go to Network or Console tab → Try watching the video and check for any visible errors
+3. **Log out and log in again**
+4. **Use a different browser**
+5. **Clear browsing data and cache**, then try to re-login
+
+If the issue persists after trying all steps, **record the issue** and email it to: **pinternship-support@vicharanashala.zohodesk.in**.
+
+# ViBe progress not reflecting as 100% even after completing 100% :
+
+Please do not worry. This is a **dashboard-level technical issue** that has already been acknowledged by the support team and communicated in the Cliq threads. The team is actively working on resolving it, and your progress will be **updated automatically** once the issue is fixed.
+
+In the meantime, you may try the following steps once:
+
+1. **Refresh your browser**
+2. **Log out**, clear your browser cache, and **log in again**
+
+If the issue still persists after these steps, no further action is required from your side. Your course completion status will be corrected by the support team shortly.
+
+
+### Phase 2: The Advanced Learning:(Case study phase):
+
+Case studies are the **second required component** (Advanced Learning) of the Pinternship program. They are well-structured, documentation-based lessons designed to help you apply what you learned in ViBe training through **hands-on coding**. Each case study focuses on real-world problem-solving, collaborative thinking, and practical implementation to help you become more confident with the technologies covered.
+Case studies are a **required component** for completing the Pinternship program. All participants must complete the case studies after finishing ViBe training and before moving to the Projects phase.
+
+# How to get started with Case Studies:
+
+Go to the Pinternship website,
+1. Click the **Case Studies** link in the navigation bar at the top of the page.
+2. Select a **technology** and then choose a **lesson**.
+3. Read the entire documentation carefully to understand the concept and tasks to be performed.
+4. Try to understand each case study first, then attempt to code a solution for it.
+5. Open a code editor (for example, **VS Code**) and implement the tasks.
+5. Getting stuck is normal. You can ask questions on Cliq, revisit the ViBe videos, and discuss with others.
+7. Submit your work using the provided submission link.
+
+# Submitting the Case Studies:
+
+1. Visit the submission form: Will be updated soon.
+2. Fill in all required details carefully, including:
+   - First name and last name  
+   - Email ID associated with the internship  
+   - Technology name and lesson number completed  
+3. Upload the file containing your solution for the specific lesson  
+   (supported formats include `.js`, `.ts`, `.txt`, `.zip`, etc.)
+4. Review your details and submit the form.
+5. Repeat this process for **each lesson** you complete.
+
+**For lessons (such as React) that involve multiple files, compress all related files into a single ZIP file and upload the ZIP file during submission.**
+
+You can track your submission status, access the leaderboard, and view the dashboard by visiting the Pinternship Live Dashboard section on the website homepage.
+
+If you are facing difficulties in solving the case studies, feel free to,Join the **breakout rooms** during Zoom sessions  
+Collaborate and discuss solutions with your peers  
+This collaborative approach is encouraged to enhance learning and problem-solving skills.
+
+
+### Phase 3: The Application:(Projects phase):
+
+Once completed with the ViBe and Case Studies phases, We have some project ideas from the existing open source projects from Vicharanashala Lab for Education Design and Annam.AI listed on the Pinternship website. You can contribute to these real-time open-source projects, working with our developers to build real applications and add new features.
+
+### Parallel Phases: Endorsement phase
+
+The Endorsement phase begins after your Case Studies phase and runs paralelly with the projects phase.
+
+## Ticket holders (Gold, Silver, Bronze):
+Participants who consistently perform well and complete all program requirements may receive recommendations from the VLED Lab and eventually become the Gold, Silver and Bronze Ticket Holders.
+
+The **Self-Healing Endorsement Network** is the official evaluation framework for the Case study activity completion for the learners.
+
+It is a **peer-driven endorsement system** where interns endorse each other’s learning and contributions. All endorsements together form a **connected endorsement network**.
+
+For the network to remain valid:
+Every chain of endorsements must **ultimately connect to a certified “Jedi”** (i.e., a **Silver, Bronze, or Gold ticket holder**).
+Any group of interns not connected to a Jedi forms a **floating island**
+Floating islands are considered **inactive**, and endorsements within them **will not be counted**.
+and **every non-Jedi intern must receive one valid endorsement** to successfully complete the internship.
+Jedis must act as **anchors** that validate and legitimize endorsement chains.
+Each intern can **receive only one endorsement**
+An intern may **endorse multiple other interns**
+There is **no upper limit** on how many endorsements you can give  
+You may endorse anyone **at your discretion**, after assessing them in any way you find appropriate.
+
+However, a **tree with greater length rather than breadth** is encouraged to maintain strong, meaningful chains rather than shallow mass endorsements.
+
+Recommended best practices:
+- Interact with the intern before endorsing them
+- Ensure they demonstrate **sufficient understanding of the MERN stack**, **ViBe course content**, and **case studies**
+- Maintain a **healthy and collaborative interaction** — there is **no hierarchy or superiority** among co-interns, so please ensure that you interact with your co-interns in a friendly manner as peers
+
+⚠️ **Important Warning:**  
+Endorsing someone with **inadequate MERN fundamentals** may trigger **audit penalties** for the **entire tree or subtree** connected to that endorsement.
+
+**You can  endorse or be endorsed by someone from your own college**
+
+However:
+Endorsements within the **same institute may raise suspicion**
+Such connections have a **higher probability of being audited** by **Bhavna ma’am**
+This is **not prohibited**, but interns are expected to endorse **responsibly and ethically**.
+
+# audits:
+
+Audits are conducted by **Bhavna**mam  to identify interns who need improvement and work on Case studies before they get into the project phase.
+
+If a **Needs Improvement** intern is identified then 
+The **entire endorsement path** connected to that intern is audited along with a**50% health point penalty** is applied to everyone in that connected group.The **intern and anyone who fails the audit** are **removed from the network**
+
+If an intern is certified as **“good”** by Bhavna ma’am, They become **eligible to be endorsed by anyone**, even if they were previously disconnected.Their **credibility and trust score** within the network increases
+
+# Incentives:
+The network is intentionally designed to be **self-healing and incentive-driven**.
+
+Whenever a new intern joins a **valid connected endorsement group**:
+- Every existing member receives a **5% health point increase**
+- The increase is calculated as:
+  - **5% of their current health points**, plus  
+  - **5% of the new member’s health points**
+
+This encourages:
+- Formation of **strong, connected networks**
+- Avoidance of risky or isolated endorsement chains
+
+# Endorsement Form:
+
+All endorsements and de-endorsements must be submitted through the **official Google Form**
+ The form should be filled **only once per endorsement**. The **endorser** should fill the form and must avoid duplicate or reciprocal entries.
+
+The form contains **mandatory sections**:
+1. **Endorser’s Name and Email**
+2. **Endorsed Person’s Name and Email**
+3. **Endorsement Status**
+   - `Added` → for endorsement  
+   - `Deleted` → for de-endorsement  
+4. **Remarks**  
+   - Write short, honest remarks based on your assessment
+<!-- ⏳ **Deadline:**  
+YET TO BE ANNOUNCED**. -->
+
+# Tracking Endorsements:
+Endorsements are tracked using a **three-column dataset**:
+
+- **Member 1** → the endorser  
+- **Member 2** → the endorsed intern  
+- **Action** → endorsement or de-endorsement
+
+Possible actions:
+- **Add** → Member 1 endorsed Member 2  
+- **Delete** → Member 1 de-endorsed Member 2  
+- **Needs Improvement** → Member 1 is belongs to Needs Improvement category, Member 2 is the parent in the chain  
+
+This dataset is used to:
+Track endorsement paths,Detect floating islands and Conduct audits efficiently.
+
+hence, Avoid careless, bulk, or reciprocal endorsements.Ensure your endorsement chain **connects to a Jedi**.Endorse based on **knowledge, effort, and contribution** and be mindful that poor endorsements can cause **audit cascades**
+
+The Self-Healing Endorsement Network rewards **integrity, collaboration, responsibility, and accountability**.
+
+## Health Points
+
+Health Points (HP) are a scoring system used to track **individual and class participation and engagement throughout the internship**. Instead of focusing only on task completion, Health Points reflect how learners participate, collaborate, and follow defined communication and attendance norms. Positive participation leads to earning points, while actions that go against the system result in deductions. Over time, Health Points encourage accountability, consistency, and self-regulation.
+
+They matter because,
+Learning is not just about watching videos or submitting assignments. It also involves discipline, ownership, collaboration, and respect for shared processes. Health Points reinforce these values by recognising consistent effort and peer support, while discouraging disengagement or rule violations. This helps maintain a healthy and responsible learning environment.
+
+Health Points are updated through an automated workflow supported by Google Forms. When you complete the **milestones on the ViBE platform** or the **milestones for Case Studies**, a defined **percentage (x%) of Health Points is automatically credited** to you. For other activities, Health Points are updated after the relevant **form is submitted**, and the updates are reflected on the dashboard with minimal delay. Additionally, a **VLED team member may submit the form** to award or deduct Health Points for specific learner contributions or misconduct.
+
+Each learner starts with a **base (credit) Health Points value**, which is initially set to **100 HP**. All future additions and deductions are calculated as a **percentage of the learner’s current Health Points**, not as fixed values. Learners are **not allowed to remain at the base Health Points value for more than 5 days**. Each day a learner stays at the base Health Points level results in **one strike**. **Five consecutive strikes** will lead to **discontinuation from the internship**. Maintaining and improving Health Points through active participation is mandatory. If the **base Health Points value is updated** in the future (for example, from 100 to 150), learners who remain **below the new base Health Points value** and do not show progress will be **automatically discontinued from the internship**.
+
+
+# Earning and Losing Individual Health Points:
+
+Individual Health Points track a learner’s **daily participation and behaviour** during the internship.
+
+You can earn individual Health Points by:
+- Helping peers on the **Cliq channel**
+- Completing the **milestones on the ViBE platform**
+- Completing the **milestones for Case Studies**
+- Completing the **assigned activities**
+
+Individual Health Points are awarded **once per day**.
+
+You lose individual Health Points for:
+- Not having your **camera on during Zoom sessions**
+- Asking queries **outside the designated Cliq channel**
+- Replying to queries **outside the proper thread** in the Cliq channel
+- Asking questions **during meetings** that are already addressed in the **FAQ or on the website**
+
+These rules help ensure structured communication and active participation.
+
+# class health points
+Class Health Points are awarded to the **entire class** when the **number of students attending Zoom meetings meets the minimum required threshold**. These points promote collective responsibility and consistent attendance in live sessions.
+
+
+## Activities 
+
+# Linkedin post:
+
+<style>
+	.page-content {
+		text-align: justify;
+	}
+</style>
+
+<img src="../LinkedIn_Post.png" alt="LinkedIn Post Activity" style="width: 100%; max-width: 600px; margin: 20px auto; display: block;">
+
+## First Week Internship Experience
+
+It is important to stay active on LinkedIn. We see that many of you are very active already. We want to incentivize your activity by throwing a challenge. (Exciting gifts and perks in store).
+
+Update your experience as a LinkedIn post on all that you have learnt so far as part of your first week's internship experience.
+
+### Why this exercise
+
+1) This will give you a lot of followers from the current cohort,  so that you get to stay in touch with them and all of us.    
+2) This will help you get new connections, as many people comment on your posts. Your post will start being visible to your links' links too.   
+3) You may get your next share of opportunity from this newly curated network.
+
+### Supporting organizations
+
+Please include the supporting organizations:
+
+1) [Vicharanashala lab](https://www.linkedin.com/company/vicharanashala/){:target="_blank"}   
+2) [Annam.ai](https://www.linkedin.com/company/annam-ai/){:target="_blank"}   
+3) [IIT Ropar](https://www.linkedin.com/school/iitropar/){:target="_blank"}     
+4) [NPTEL](https://www.linkedin.com/company/nptel/){:target="_blank"}   
+5) Your college's LinkedIn page  
+
+Tag [Sudarshan Iyengar](https://in.linkedin.com/in/sudarshan-iyengar-3560b8145){:target="_blank"} Sir, so that he can come and comment on some of your posts.
+
+Also, tag your friends/faculty and the mentor team at IIT Ropar who are helping you.
+
+### Tip
+
+Try to make the message short and crisp. Include a GenAI image depicting your post, so that it attracts attention.
+
+### What do you do now?
+Get to LinkedIn and post your experience as a LinkedIn post there and share the link to your post with your fellow interns on the Cliq channel.
+
+# Blogs:
+
+<style>
+  .page-content {
+    text-align: justify;
+  }
+</style>
+
+### Writing a Blog as Part of Your Pinternship Journey with VLED Lab
+
+<small>*(Activity: Call for Blogs)*</small>
+
+<img src="../Blog_image.jpg" alt="Blog Writing" style="width: 100%; max-width: 600px; margin: 20px auto; display: block;">
+
+As part of your internship with the **VLED Lab**, we are opening a **Call for Blogs**—an invitation for you to pause, reflect, and put your journey into words. This activity is not about technical writing skills or perfect grammar. It is about **capturing your experience honestly**, in your own voice, as you lived through this internship.
+
+### The Journey
+
+This internship has been intentionally designed as a learning journey rather than a checklist. You began with a fully hands-on **MERN stack course delivered through ViBe**, where learning happened through practice and persistence. You then moved into solving **case studies**, which required you to think, reason, and struggle like a developer. For those who complete the case studies, the journey extended further—into **real project work alongside our developers**, where learning became responsibility.
+Along the way, many experiences quietly shaped you. Learning on ViBe, navigating case studies, consistently learning, discussing ideas in breakout rooms, preparing for the viva, receiving feedback, and working in teams—each of these meant something different to each of you. That difference is what makes your story worth telling.
+
+To help you reflect, you may think about experiences such as learning through ViBe, working through the MERN course, solving case studies, doing coding, understanding the role of consistency, or contributing to real projects. These are only prompts to help you remember. Do not pick any of these as your blog topic directly. Writing on the “easiest” idea is not the goal. Writing from your heart is.
+
+What we are **not looking for** is a summary of the internship or a step-by-step description of what happened.
+
+What we **are looking for** is your lived experience—your doubts, your growth, your surprises, and your takeaways. Write about what stayed with you after the sessions ended. Write about moments that changed how you think or learn. Write as if you are speaking to someone who has never experienced learning in this way.
+
+### Publication
+
+Your blog should first appear on your LinkedIn profile under the article section. You should tag VLED lab and it's members in your article. If we found the article interesting, inspiring and aligning with the Pinternship. We will select your submitted blog and it will be **reviewed by the VLED Lab team**. You will receive **comments and suggestions to help you improve your writing and clarity**. This is part of the learning process—we see writing as something that evolves through feedback, just like code.
+
+After review the selected blogs will be **published on the Pinternship website under the Blogs section**. Additionally, **selected blogs will be recognised for their** thoughtful reflection, originality, and authenticity.
+
+### Submission Instructions
+
+You are first required to publish your blog on your LinkedIn under the [Article](https://www.linkedin.com/article/new/){:target="_blank"} section and then you are required to submit your blog as **Markdown file** to **Pinternship** GitHub repository as a new pull request. Your blog will be rendered as a webpage, so ensure it is readable, well-structured, and personal. Follow the folder structure, naming conventions, and file structure provided below. Each blog must be written individually and should reflect your own journey.
+
+***Repository:*** [https://github.com/sudarshansudarshan/pinternship](https://github.com/sudarshansudarshan/pinternship){:target="_blank"}
+
+***Folder Structure:*** Place your blog in the `_blogs/` folder.
+
+***Naming Convention***
+Your file must be named: `Name_B_PinternshipID.md`, *Example:* `Mohit_B_Pinternship12345.md`
+
+***File Structure:***
+Your blog file must include front matter at the beginning with the following fields:
 ```markdown
 ---
 title: "Your Blog Title Here"
 author: Your Full Name
 pinternship_id: YOUR_PINTERNSHIP_ID
 ---
+```
 
-Your blog content here...
-
+Your blog must end with the following structure:
+```markdown
 ---
 
 Author: [Your Full Name](https://www.linkedin.com/in/your-linkedin-profile/){:target="_blank"}
 LinkedIn Article: [Read on LinkedIn](https://www.linkedin.com/your-article-link/){:target="_blank"}
 ```
 
-**Note**: If your blog title contains special characters like colons (:), wrap it in double quotes.
+*Note: If your blog title contains special characters like colons (:), wrap it in double quotes.*
 
-**Review Process**: Selected blogs reviewed by VLED Lab team with comments and suggestions for improvement, then published on Pinternship website and recognized for thoughtful reflection, originality, and authenticity.
+*Example:*
+```markdown
+---
+title: "My Learning Journey: Reflections on Growth"
+author: Mohit Kumar
+pinternship_id: PID12345
+---
 
-### Vlog Creation Activity: Call for Vlogs
-**Purpose**: Share learning journey, technical skills, and project demonstrations through video
+Your blog content here...
 
-**What We're Looking For**:
-- Authentic experience of what worked and what didn't
-- Screen recordings while explaining code
-- Debugging process demonstrations
-- Feature demonstrations you built
-- Content you wish existed when you were learning
-- Your thought process and real-time problem-solving
+---
 
-**What We're NOT Looking For**:
-- Highly polished, scripted content that feels impersonal
-- Professional equipment or perfect editing
+Author: [Mohit Kumar](https://www.linkedin.com/in/mohit-kumar/){:target="_blank"}
+LinkedIn Article: [Read on LinkedIn](https://www.linkedin.com/my-learning-journey-reflections-growth-mohit-kumar/){:target="_blank"}
+```
 
-**Publication Process**:
-1. **First**: Upload to your personal [YouTube](https://www.youtube.com/){:target="_blank"} channel
-2. Tag or mention **Vicharanashala** channel in video description
-3. If video is high-quality, informative, and aligned with Pinternship, it will be selected and reviewed by VLED Lab team
+<br>
+<hr>
 
-**Submission Process**:
-1. **After YouTube upload**: Submit as markdown file to [Pinternship GitHub repository](https://github.com/sudarshansudarshan/pinternship){:target="_blank"}
-2. **Folder**: Place in `_vlogs/` folder
-3. **Naming**: `Name_V_PinternshipID.md` (e.g., `Mohit_V_12345.md`)
+*This activity is not about being perfect. It is about being **honest**.*
 
-**File Structure**:
+*Not about choosing the safest topic. But about telling the **truest story**.*
+
+*We look forward to reading your journey.*
+
+
+{% assign blogs = site.blogs %}
+{% if blogs.size > 0 %}
+<br>
+
+---
+
+<br>
+
+### **Published Blogs**
+
+<div style="text-align: center; background-color: #f6f8fa; padding: 2rem; margin-bottom: 2rem; border-radius: 8px; border-left: 4px solid #0366d6;">
+  <p style="font-size: 1.1rem; line-height: 1.8; color: #24292e; margin: 0; max-width: 800px; margin-left: auto; margin-right: auto;">
+    Read the thoughtful reflections and experiences shared by our interns. Each blog captures personal journeys, challenges, and insights gained during the Pinternship program.
+  </p>
+</div>
+
+{% for blog in blogs %}
+
+<div style="margin-bottom: 1.5rem; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+  <details style="margin: 0;">
+    <summary style="cursor: pointer; font-size: 1.2rem; font-weight: 600; padding: 1rem 1.5rem; background: linear-gradient(135deg, #3B82F620 0%, #3B82F640 100%); border-left: 4px solid #3B82F6; display: flex; align-items: center; gap: 0.5rem;">
+      <span>{{ blog.title }} - {{ blog.author }} ({{ blog.pinternship_id }})</span>
+    </summary>
+    
+    <div style="padding: 1.5rem; background-color: white;">
+      <div style="prose max-width: none; text-align: justify;">
+        {{ blog.content }}
+      </div>
+    </div>
+  </details>
+</div>
+
+{% endfor %}
+
+{% endif %}
+
+<style>
+  details[open] summary {
+    margin-bottom: 0;
+  }
+  
+  details summary:hover {
+    opacity: 0.9;
+  }
+  
+  details div.prose h1 {
+    color: #24292e;
+    font-size: 1.75rem;
+    font-weight: 700;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid #e1e4e8;
+  }
+  
+  details div.prose h2 {
+    color: #24292e;
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid #e1e4e8;
+  }
+  
+  details div.prose h3 {
+    color: #24292e;
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+  }
+  
+  details div.prose h4 {
+    color: #586069;
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  details div.prose ul, details div.prose ol {
+    margin: 1rem 0;
+    padding-left: 2rem;
+  }
+  
+  details div.prose li {
+    margin: 0.5rem 0;
+    color: #24292e;
+    line-height: 1.6;
+  }
+  
+  details div.prose p {
+    margin: 1rem 0;
+    color: #24292e;
+    line-height: 1.7;
+    text-align: justify;
+  }
+  
+  details div.prose strong {
+    color: #24292e;
+    font-weight: 600;
+  }
+  
+  details div.prose a {
+    color: #0366d6;
+    text-decoration: none;
+  }
+  
+  details div.prose a:hover {
+    text-decoration: underline;
+  }
+</style>
+
+# Vlogs
+<style>
+  .page-content {
+    text-align: justify;
+  }
+</style>
+
+### Creating a Vlog as Part of Your Pinternship Journey with VLED Lab
+
+<small>*(Activity: Call for Vlogs)*</small>
+
+<img src="../Vlog_image.png" alt="Vlog Creating" style="width: 100%; max-width: 600px; margin: 20px auto; display: block;">
+
+As part of your internship with the **VLED Lab**, we are opening a **Call for Vlogs**—an invitation for you to share your learning journey, technical skills, and project demonstrations through video. This activity is not about having professional equipment or perfect editing. It is about **showing your authentic experience**, sharing what you've learned, and helping others through visual storytelling.
+
+### The Journey
+
+Video is one of the most powerful ways to teach and motivate. When you show your screen while explaining code, walk through your debugging process, or demonstrate a feature you built—you create something that written words alone cannot capture. Your thought process, your real-time problem-solving, and your authentic voice make learning process easy and impactful.
+
+What we are **not looking for** is highly polished, scripted content that feels impersonal.
+
+What we **are looking for** is authentic and your honest experience of what worked and what didn't. Create content that you wish had existed when you were learning.
+
+### Publication
+
+Your vlog should first be uploaded to **your personal YouTube channel**. You should tag or mention **Vicharnashala** channel in your video description. If we find the video high-quality, informative, and aligned with Pinternship, we will select your submitted vlog and it will be **reviewed by the VLED Lab team**.
+
+After review, the selected vlogs will be **embedded on the Pinternship website under the Vlogs section**. Additionally, **featured vlog creators will be recognised** for their contribution to the learning community.
+
+### Submission Instructions
+
+You are first required to upload your video to **your personal [YouTube](https://www.youtube.com/){:target="_blank"} channel** and then you are required to submit your vlog as a **Markdown file with embedded video** to the **Pinternship** GitHub repository as a new pull request. Your vlog page will be rendered as a webpage, so ensure the markdown file is well-structured and includes proper video embedding. Follow the folder structure, naming conventions, and file structure provided below.
+
+***Repository:*** [https://github.com/sudarshansudarshan/pinternship](https://github.com/sudarshansudarshan/pinternship){:target="_blank"}
+
+***Folder Structure:*** Place your vlog file in the `_vlogs/` folder.
+
+***Naming Convention***
+Your file must be named: `Name_V_PinternshipID.md`, *Example:* `Mohit_V_12345.md`
+
+***File Structure:***
+Your vlog file must include front matter at the beginning with the following fields:
 ```markdown
 ---
 title: "Your Video Title Here"
@@ -656,256 +590,286 @@ youtube_url: "URL"
 Brief description of what your video covers and what viewers will learn along with the video embedded.
 ```
 
-**Recognition**: Selected vlogs will be embedded on Pinternship website under Vlogs section, and featured vlog creators will be recognized for their contribution to the learning community.
 
-### LinkedIn Post Activity: First Week Experience
-**Purpose**: Stay active on LinkedIn and build professional network
+<br>
+<hr>
 
-**What to Include**:
-- Your first week internship experience
-- What you've learned so far
-- Short and crisp message
-- GenAI image to attract attention
+*This activity is not about perfection. It is about **sharing**.*
 
-**Supporting Organizations to Tag**:
-1. [Vicharanashala lab](https://www.linkedin.com/company/vicharanashala/){:target="_blank"}
-2. [Annam.ai](https://www.linkedin.com/company/annam-ai/){:target="_blank"}
-3. [IIT Ropar](https://www.linkedin.com/school/iitropar/){:target="_blank"}
-4. [NPTEL](https://www.linkedin.com/company/nptel/){:target="_blank"}
-5. Your college's LinkedIn page
+*Not about having the best equipment. But about **motivating others to learn**.*
 
-**People to Tag**:
-- [Sudarshan Iyengar](https://in.linkedin.com/in/sudarshan-iyengar-3560b8145){:target="_blank"} Sir
-- Your friends/faculty
-- Mentor team at IIT Ropar
+*We look forward to featuring your content.*
 
-**Benefits**:
-- Gain followers from current cohort
-- Get new connections through comments
-- Increase visibility to extended network
-- Potential opportunities from curated network
 
-**Action**: Post on LinkedIn and share link with fellow interns on Cliq channel
-
-### Current Announcements
-**Latest**: Upload Your Zoho Profile Picture (17th Jan 2026)
-- Set clear and professional profile picture in Zoho account
-- Ensure photo clearly shows your face
-- Make it visible to everyone on the platform
-- Explore Zoho account settings for profile and visibility options
+{% assign vlogs = site.vlogs %}
+{% if vlogs.size > 0 %}
+<br>
 
 ---
 
-## 📊 Tracking Your Progress
 
-### Available Dashboards:
-- **ViBe Progress**: Track module completion
-- **Case Studies**: Monitor submission status
-- **Health Points**: View current HP and leaderboard
-- **Endorsement Network**: Visualize connections
+<br>
 
-### Important Links:
-- Dashboard Sheet: [Access Here](https://docs.google.com/spreadsheets/d/1J0U2-pzfBpfyY9-31lGgVB284gix8KkEeFTdT64qzAo/edit?usp=sharing)
-- HP Master Sheet: [Access Here](https://docs.google.com/spreadsheets/d/1H3FVi3JFhw1qol7S7vdYIKzeYfKlGg84eby0psuoQPg/edit?usp=sharing)
+### **Published Vlogs**
+
+<div style="text-align: center; background-color: #f6f8fa; padding: 2rem; margin-bottom: 2rem; border-radius: 8px; border-left: 4px solid #0366d6;">
+  <p style="font-size: 1.1rem; line-height: 1.8; color: #24292e; margin: 0; max-width: 800px; margin-left: auto; margin-right: auto;">
+    Watch video tutorials, project demonstrations, and learning journeys shared by our interns. Each vlog provides valuable insights and practical knowledge from the Pinternship program.
+  </p>
+</div>
+
+{% for vlog in vlogs %}
+
+<div style="margin-bottom: 1.5rem; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+  <details style="margin: 0;">
+    <summary style="cursor: pointer; font-size: 1.2rem; font-weight: 600; padding: 1rem 1.5rem; background: linear-gradient(135deg, #FF980020 0%, #FF980040 100%); border-left: 4px solid #FF9800; display: flex; align-items: center; gap: 0.5rem;">
+      <span>{{ vlog.title }} - {{ vlog.author }} ({{ vlog.pinternship_id }})</span>
+    </summary>
+    
+    <div style="padding: 1.5rem; background-color: white;">
+      <div style="prose max-width: none; text-align: justify;">
+        {{ vlog.content }}
+      </div>
+    </div>
+  </details>
+</div>
+
+{% endfor %}
+
+{% endif %}
+
+<style>
+  details[open] summary {
+    margin-bottom: 0;
+  }
+  
+  details summary:hover {
+    opacity: 0.9;
+  }
+  
+  details div.prose h1 {
+    color: #24292e;
+    font-size: 1.75rem;
+    font-weight: 700;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid #e1e4e8;
+  }
+  
+  details div.prose h2 {
+    color: #24292e;
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid #e1e4e8;
+  }
+  
+  details div.prose h3 {
+    color: #24292e;
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+  }
+  
+  details div.prose h4 {
+    color: #586069;
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  details div.prose ul, details div.prose ol {
+    margin: 1rem 0;
+    padding-left: 2rem;
+  }
+  
+  details div.prose li {
+    margin: 0.5rem 0;
+    color: #24292e;
+    line-height: 1.6;
+  }
+  
+  details div.prose p {
+    margin: 1rem 0;
+    color: #24292e;
+    line-height: 1.7;
+    text-align: justify;
+  }
+  
+  details div.prose strong {
+    color: #24292e;
+    font-weight: 600;
+  }
+  
+  details div.prose a {
+    color: #0366d6;
+    text-decoration: none;
+  }
+  
+  details div.prose a:hover {
+    text-decoration: underline;
+  }
+  
+  details div.prose iframe {
+    max-width: 100%;
+    margin: 1rem 0;
+  }
+</style>
+
+## Cliq Channel
+
+To join the Cliq Channel,
+Follow these steps **only on a laptop or desktop** (mobile is not supported):
+
+1. Check your email for the **Cliq channel invite** and open it.
+2. Sign up or log in to **Zoho Cliq using Google**, using the **same email ID** on which you received the invite.
+3. In the left navigation bar, select **#Channels**.
+4. Click on the **Join** button.
+5. Locate all the channels starting with the name **Pinternship** and click **Join**.
+
+If you are unable to join due to the message **“Collaboration with different regional external users in Zoho Cliq is disabled”** then, 
+1. Click on your **Profile icon** (top-right corner).
+2. Select **Admin Panel** under *My Organization*.
+3. Go to **Policies** under the *Permissions* section.
+4. Scroll down to **Channel and Direct Messages Collaboration**.
+5. Under **Universal Access**, enable **both checkboxes**.
+6. Refresh the Cliq page and try joining the channel again.
+
+If the issue persists, take a **screenshot or screen recording** clearly showing the error message, briefly explain the problem, and email it to:  
+**pinternship-support@vicharanashala.zohodesk.in** between **9:00 AM and 9:00 PM**.
+
+# To join cliq with college mail id
+
+Follow these steps to join the internship channels using your college email:
+
+1. **Create an account** on Zoho Cliq using your **COLLEGE MAIL ID**
+2. Access your **college mail inbox** and accept the request to join the **pinternship channels**
+Make sure to use your college email ID throughout the process to ensure proper access and identification.
+
+If you are not able to message in the cliq channel even after joining it, then
+This issue is usually caused by restricted collaboration permissions.
+
+Follow the steps mentioned above to enable **Universal Access**, then refresh the page.
+If you are still unable to send messages, take a **screenshot or screen recording** of the issue, briefly explain the problem, and email it to:  
+**pinternship-support@vicharanashala.zohodesk.in** between **9:00 AM and 9:00 PM**.
+
+# Updating profile picture
+1. Open **Zoho Cliq** on desktop.
+2. Click your **Profile icon** (top-right corner).
+3. Click **My Zoho Account** next to the *Sign Out* button.
+4. Authorize using **Google**.
+5. Go to **Settings → Preferences**.
+6. Set **Profile Picture Visibility** to **Anyone**.
+7. Return to Cliq and **refresh the page**.
+8. Click your **Profile icon** again and upload a **clear profile picture** where your face is properly visible.
+9. Refresh the page once more and **wait for some time**, as it may take a while for the updated profile picture to become visible to everyone.
+
+Only original photographs clearly showing your face are allowed.
+GenAI-generated images, avatars, cartoons, logos, or group photos are not permitted.
+Posting any message without a compliant DP will result in an immediate –10% HP deduction.
+In addition to the immediate –10% HP deduction for posting, there will be an additional daily –10% HP deduction for continued non-compliance.
+
+**If you cannot see any user profile pictures:**
+1. **Hard-refresh your browser** and **clear cookies and cache**
+2. Follow this guide: https://help.codehs.com/en/articles/4951972-how-to-clear-your-browser-cache-and-hard-refresh
+
+Ask queries only in the **designated Cliq channel**.
+- Reply **only within the relevant thread**, not in the main channel.
+- Avoid direct messages unless explicitly instructed.
+- Help peers whenever possible in the relevant thread to earn **health points**.
+- Before posting a query, check recent threads to see if the same question has already been asked.
+- While reacting to messages, use:
+  - 👍 to acknowledge a query as soon as it is submitted  
+  - ✅ to mark a query as resolved  
+  - 🔔 for FYI or informational updates  
+  - ➕ if you are facing the same issue  
+
+These practices help maintain clarity and ensure no updates are missed.
+
+
+**If issues still persist:**
+- This may be due to your **data center being mapped to US instead of India**
+- Send an email with detailed issue description to: **support@zohocliq.com**
+
+## Protocols and Policies
+
+<style>
+  .page-content {
+    text-align: justify;
+  }
+</style>
+
+
+## Support and Resolution Protocol
+
+The Pinternship programme follows a structured support and grievance redressal mechanism to ensure clarity, accountability, and timely resolution of participant queries. All students are required to follow the prescribed support flow in sequence before escalating any issue.
+
+<img src="../support-escalation.png" alt="Escalation Protocol" style="width: 100%; max-width: 600px; margin: 20px auto; display: block;">
+
+### Broadcast Channel
+
+The **Broadcast Channel** is the official communication channel of the Pinternship programme. All programme-related announcements, instructions, timelines, and policy updates shall be communicated exclusively through this channel.
+
+This channel operates on a one-way communication model, and participants are not permitted to post responses or raise queries. Students are expected to regularly monitor this channel and act in accordance with the information communicated.
+
+### Discussion Channel
+
+The **Discussion Channel** is intended to facilitate student-student interaction and peer-supported problem solving. Participants may use this channel to seek clarifications, discuss academic or platform-related issues, and exchange ideas with fellow interns.
+
+Students are expected to engage responsibly, maintain academic decorum, and review existing discussions before raising new queries.
+
+### Support Desk
+
+The **Pinternship Support Desk** constitutes the formal support mechanism for all technical, administrative, and programme-related issues. Participants are required to raise a support ticket through the official support desk at  
+**pinternship-support@vicharanashala.zohodesk.in** when their issue cannot be resolved through official announcements or peer discussion.
+
+Students must retain their ticket reference number and allow adequate time for resolution before proceeding further.
+
+### Escalation Channel
+
+The **Escalation Channel** is a restricted support mechanism and shall be used strictly as a last resort. Participants may access this channel only when their query remains unresolved despite following all prior steps, including raising a formal support ticket with the Support Desk.
+
+This channel is reserved for critical issues that materially affect participation or progression. Premature or inappropriate use of the escalation mechanism may result in delayed response.
+
+
+### Usage of Emojis
+
+1. Use 👍 to acknowledge a message as soon as it is posted.  
+2. Use ✅ once the query has been resolved.  
+3. Use 🔔 for FYI or informational updates.  
+4. Use ➕ if you are facing a similar issue.  
+5. Please reply within threads to keep the channel organized.
 
 ---
 
-## 🎯 Success Tips
+## Ejection Policy
 
-### For ViBe Learning:
-- Watch videos in well-lit, quiet environment
-- Keep camera on throughout sessions
-- Don't skip or switch tabs during videos
-- Take notes and practice concepts
+### A Culture of Momentum: The Ejection Policy
 
-### For Case Studies:
-- Read documentation thoroughly first
-- Understand the problem before coding
-- Don't hesitate to ask questions
-- Collaborate in breakout rooms
+<img src="../Ejection.png" alt="Ejection Policy" style="width: 100%; max-width: 600px; margin: 20px auto; display: block;">
 
-### For Projects:
-- Understand feature requirements clearly
-- Take challenges one at a time
-- Follow coding best practices
-- Communicate regularly with mentors
+To maintain a high-energy environment, the program prioritizes **sustained effort** and active engagement over passive participation. We believe a learning community thrives when every participant contributes to the collective "pulse," which is why we employ a dynamic **Ejection Policy** to ensure the cohort remains focused. This system recognizes two distinct paths of movement:
 
-### General Success Strategies:
-- **Maintain consistent daily progress** (>3.33% ViBe) to protect your HP
-- **Engage actively in community discussions** to earn engagement HP
-- **Help peers when possible** for community contribution HP
-- **Stay organized with deadlines** to hit milestone HP bonuses
-- **Ask questions early and often** while maintaining good HP standing
-- **Focus on HP growth** through quality work and consistent participation
-- **Build strong endorsement networks** for HP multiplier effects
-- **Attend all sessions with camera on** to avoid HP penalties
+#### Forward Eject (The Ascent)
+Super-performers who consistently stay at the top of the cohort and demonstrate **exceptional performance** are "ejected" upward into advanced leadership opportunities. These individuals may also be considered for prestigious **fellowship nominations** based on their demonstrated capability and reflective practice.
+
+#### Backward Eject (The Departure)
+To preserve the quality of the experience and focus resources on committed learners, participants who remain persistently idle are removed from the cohort. This ensures that collaborative activities, such as **peer-to-peer viva sessions**, are conducted among interns who are equally invested in their growth.
+
+### The Progress Algorithm
+
+We ensure transparency and fairness by using an automated, dual-criteria filter to identify idle participants. A **Backward Eject** is only triggered if an intern meets **both** of the following conditions simultaneously:
+
+1. **Daily Progress:** Your completion rate on the ViBe platform falls below **3.33% per day**.
+
+2. **Cohort Standing:** Your overall engagement level ranks within the **bottom 10% of the active cohort**.
+
+By maintaining a pace above this threshold, you ensure your spot in the program remains secure while you build meaningful professional artifacts, including **case studies and reflective blogs**.
 
 ---
 
-## 🏆 Completion & Recognition
-
-### Completion Requirements:
-✅ Complete all ViBe training modules (Core Learning - Required)
-✅ Submit all required case studies (Advanced Learning - Required)  
-✅ Complete endorsement/viva for case studies (Required)
-✅ Receive valid endorsement from peer (non-Jedi students - Required)
-✅ Complete assigned project work (Practical Learning - Required)
-✅ Maintain minimum progress thresholds throughout program
-
-### Certification & Recognition:
-- **Certificate of completion** for all successful participants
-- **Recommendation letters** available upon request after completion (at instructor discretion based on performance)
-- **NPTEL certification**: Contact NPTEL internship team directly for certificate information
-- **No guaranteed recommendations**: Based on performance evaluation by course instructor
-
-### Potential Opportunities for Top Performers:
-- **Internship opportunities** with VLED Lab for exceptional candidates
-- **Advanced project involvement** with lab's ongoing research
-- **Fellowship considerations** for forward-ejected super-performers
-- **Portfolio-worthy projects** for career advancement
-
-### Important Notes:
-- **No stipend provided** - this is an unpaid learning internship
-- All outcomes and opportunities are **performance-based**
-- **Discontinuation possible** for prolonged inactivity (cannot rejoin current program)
-- **Cannot appeal** ejection or discontinuation decisions
-
-### Discontinuation vs Ejection Policy:
-**Discontinuation Policy**: 
-- Addresses prolonged inactivity at administrative level
-- For participants who remain inactive over extended periods
-- 2-month duration with possible 15-day extension
-- Cannot rejoin current program after discontinuation
-
-**Ejection Policy**: 
-- Real-time, algorithm-based mechanism
-- Focused on maintaining cohort momentum and learning quality
-- Dual-criteria automated filter for fairness
-
-### Program Goals & Evaluation Criteria
-
-**By Program End, You Should Be Able To**:
-- Build complete full-stack applications using MERN stack
-- Design scalable systems
-- Write maintainable code
-- Follow industry-standard practices
-- Demonstrate skills through real projects
-
-**Evaluation Based On**:
-- Progress through ViBe training modules
-- Successful completion of all case studies and projects
-- Overall quality of work
-- Consistent engagement
-- Clean code and thoughtful implementation
-
-**Key Evaluation Factors**:
-- Technical proficiency across full stack
-- Problem-solving approach
-- Code quality and best practices
-- Collaboration and communication skills
-- Ability to work with production-level systems
-
----
-
-## 📞 Important Contacts & Resources
-
-### Support Contacts:
-- **Primary Support**: pinternship-support@vicharanashala.zohodesk.in
-- **Response Time**: 2 hours (9 AM - 9 PM)
-- **Escalation**: Pinternship - Escalation Cliq channel
-
-### Teaching Team & Mentorship:
-| Name | Email |
-|------|-------|
-| Umesh | 2022csb1139@iitrpr.ac.in |
-| Jignesh | 2021mcb1181@iitrpr.ac.in |
-| Sankalp | 2022csb1137@iitrpr.ac.in |
-| Utkarsh | 2022csb1140@iitrpr.ac.in |
-| Satvik | 2022csb1120@iitrpr.ac.in |
-
-**Mentorship**: Project mentors can schedule meetings based on doubts and issues you face in projects or learning phase. Course instructor may interact depending on project requirements.
-
-### Support & Community Structure
-
-**Throughout the Program**:
-- Guidance from Prof. Sudarshan Iyengar and VLED Lab team
-- Structured mentorship and academic support
-- Dedicated support forums
-- Regular interactions and focused assistance
-- Doubt resolution and problem-solving support
-
-**Collaboration Encouraged**:
-- Develop communication skills
-- Build teamwork capabilities
-- Shared responsibility approach
-- Essential qualities for real-world software development
-
-**Community Channels**:
-- Broadcast Channel: Official announcements (one-way communication)
-- Discussion Channel: Peer interaction and problem-solving
-- Support Desk: Formal technical/administrative support
-- Escalation Channel: Last resort for critical issues
-
-**Academic Support Features**:
-- Breakout rooms during Zoom sessions
-- Peer collaboration opportunities
-- Chatbot for quick guidance
-- Community participation throughout journey
-
-### Key Resources:
-- **ViBe Platform**: Your primary learning hub ([Demo Video](https://www.youtube.com/watch?v=PIIiMWbx2A0&feature=youtu.be))
-- **Case Studies**: [Access Here](../case-studies/)
-- **Projects**: [Access Here](../projects/)
-- **FAQ**: [Complete FAQ](../faq/)
-- **Git Guide**: [GitHub Guide](../git-guide/)
-
-### Important Forms & Links:
-- **ViBe Issue Reporting**: [Report Here](https://forms.gle/g1AqdeUnuWgftrZ3A)
-- **Activity Completion Confirmation**: [Confirm Here](https://forms.gle/7Gkyqfc72Pzrpg5d6)
-- **Pinternship T&C Declaration**: [Sign Here](https://zfrmz.in/IlClYEoa5iIOpMRVt3Xc)
-- **HP Addition/Deduction Form** (VLED team only): [Access Here](https://forms.gle/guEXxPnZcom5TR1a7)
-
-### Available Dashboards & Documents:
-- **Dashboard Sheet**: [Access Here](https://docs.google.com/spreadsheets/d/1J0U2-pzfBpfyY9-31lGgVB284gix8KkEeFTdT64qzAo/edit?usp=sharing)
-- **HP Master Sheet**: [Access Here](https://docs.google.com/spreadsheets/d/1H3FVi3JFhw1qol7S7vdYIKzeYfKlGg84eby0psuoQPg/edit?usp=sharing)
-- **Activities Document**: [Access Here](https://writer.zoho.in/writer/open/tk5iv6abecfc364de41289e542b876c05f3e0)
-- **Milestones Document**: [Access Here](https://writer.zoho.in/writer/open/tk5iv07e84d64c700499b9023cd251b66ebc9)
-- **ViBe Progress**: Track module completion
-- **Case Studies**: Monitor submission status
-- **Health Points**: View current HP and leaderboard
-- **Endorsement Network**: Visualize connections
-
-### Links:
-- **Main Pinternship Repository**: [https://github.com/sudarshansudarshan/pinternship](https://github.com/sudarshansudarshan/pinternship){:target="_blank"}
-- **Program Homepage**: [https://sudarshansudarshan.github.io/pinternship](https://sudarshansudarshan.github.io/pinternship){:target="_blank"}
-- **Projects**: [Access Here](https://sudarshansudarshan.github.io/pinternship/projects/)
-- **FAQ**: [Complete FAQ](https://sudarshansudarshan.github.io/pinternship/faq/)
-
-### Teaching Team:
-| Name | Email |
-|------|-------|
-| Umesh | 2022csb1139@iitrpr.ac.in |
-| Jignesh | 2021mcb1181@iitrpr.ac.in |
-| Sankalp | 2022csb1137@iitrpr.ac.in |
-| Utkarsh | 2022csb1140@iitrpr.ac.in |
-| Satvik | 2022csb1120@iitrpr.ac.in |
-
----
-
-## 🎉 Final Words
-
-**Pinternship** is more than just an internship - it's a comprehensive learning journey that will transform you into a skilled full-stack developer. The program is designed to be challenging but rewarding, with each phase building upon the previous one.
-
-Remember:
-- **Consistency is key** - maintain steady progress
-- **Community matters** - help others and ask for help
-- **Quality over speed** - understand concepts deeply
-- **Real-world focus** - everything you learn has practical application
-
-**Stay consistent, ask questions when needed, and make the most of this learning experience.**
-
-**Let's build something meaningful together! 🚀**
-
----
-
-*For any questions or clarifications, refer to the specific sections above or contact support through the proper channels. Good luck with your Pinternship journey!*
