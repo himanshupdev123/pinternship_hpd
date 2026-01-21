@@ -9,19 +9,18 @@ toc: true
 
 Namaste Pinterns !
 
-Welcome to your comprehensive guide for the **Pinternship Full-Stack Development Internship Program**! This handbook consolidates everything you need to know to successfully navigate and complete your internship journey.
+Welcome to the Pinternship, this handbook serves as your first hand source of help for your Pinternship and will let you know the "P" to "P" of this **Pinternship**
 
 ## Table of Contents
 
-### 1. [Program Overview](#-what-is-pinternship)
-- 1.1 [What is Pinternship?](#-what-is-pinternship)
-- 1.2 [Key Features](#key-features)
+### 1. [Introduction](#introduction)
 
-### 2. [Program Structure](#-program-structure-the-three-phases)
+### 2. [Program Phases](#program-phases)
 - 2.1 [Phase 1: Core Learning - ViBe Training](#phase-1-core-learning---vibe-training-required)
 - 2.2 [Phase 2: Advanced Learning - Case Studies](#phase-2-advanced-learning---case-studies-required)
 - 2.3 [Phase 3: Practical Learning - Projects](#phase-3-practical-learning---projects-required)
 
+### 3. [Essential Resources](#-important-resources)
 ### 3. [Essential Resources](#-important-resources)
 - 3.1 [Key Links](#key-links)
 - 3.2 [Support Contacts](#support-contacts)
@@ -91,42 +90,38 @@ Welcome to your comprehensive guide for the **Pinternship Full-Stack Development
 
 ---
 
-## 🎯 What is Pinternship?
+## Introduction
 
-**Pinternship** is a comprehensive **Full-Stack Development Internship Program** conducted under the expert guidance of **Prof. Sudarshan Iyengar** at **IIT Ropar's VLED Lab**.
+**Pinternship** is an initiative by the Vicharanashala Labs,IIT Ropar under the guidance of Prof.Sudarshan Iyengar, which upskills students on MERN Stack development,deepen them with case studies and finally deploy them on Real world projects. Apart from this an attempt is being made to shift pinterns from endless doom scrolling by an alternative that is equally dopamine driving.
 
 This internship is designed for learners who genuinely want to understand how modern web applications are built. Instead of focusing only on theory, the program emphasizes applying concepts in realistic development scenarios and building systems that resemble real production applications.
 
-### Key Features:
-- **Duration**: 2 months with possible 15-day extension based on individual circumstances
-- **Mode**: Online only (no on-campus/offline option available)
-- **Focus**: MERN Stack (MongoDB, Express.js, React, Node.js/TypeScript)
-- **Approach**: Self-paced learning with structured milestones and live sessions
-- **Requirements**: Desktop/laptop (mobile not supported)
-- **Internship ID**: Will be mentioned in your NPTEL offer letter
-- **Live Sessions**: Scheduled workshops and mentorship meetings (timings conveyed in advance)
-- **Attendance**: Compulsory for standups every Monday, Wednesday, Friday at 8:45 PM
+### Details and requirements:
 
+**Duration** : 14 Jan 2026 to 24 March 2026 (10 weeks)
+**Requirements** : Laptop/Desktop with a stable internet connection.
+**Standup sessions**:  standups that  scheduled for every Monday, Wednesday and Friday at 8:45 PM. Attendance is tracked for all the live session activities. Attendance will be counted only if your camera remains ON for the entire Zoom session. If the camera is not switched on for a sustained duration, the session may not be considered as full attendance.
 ---
 
-## 🚀 Program Structure: The Three Phases
+##  Program Phases
 
 The internship is organized into three mandatory components that together form a complete learning journey:
 
 ### Phase 1: Core Learning - ViBe Training (Required)
-**What it is**: Building strong fundamentals through the ViBe platform
-**What you'll learn**: TypeScript, React, Express.js, and MongoDB
-**Goal**: Develop a clear understanding of core concepts before moving to complex applications
+This program follows a carefully structured learning path that covers the complete MERN stack along with the development practices used in modern software teams.
+
+You will begin with the basics of JavaScript, building a strong foundation in core programming concepts. You will then move on to TypeScript, with a focus on writing safe, manageable, and more predictable JavaScript. After that, you will learn React to build interactive, component-driven user interfaces. On the backend, the program introduces MongoDB for designing and managing scalable databases, followed by Express.js for handling APIs and server-side logic.
+
+As you progress, you will also work with concepts such as state management, RESTful API design, middleware usage, database queries and aggregations, performance optimization, and testing. These topics are introduced gradually and reinforced through practical implementation rather than isolated theory.
 
 ### Phase 2: Advanced Learning - Case Studies (Required)
-**What it is**: Real-world problem-solving through hands-on coding
-**What you'll do**: Work through structured case studies across different stack areas
-**Goal**: Apply ViBe concepts through practical implementation
+Case studies are tightly aligned with the ViBe training modules and are meant to strengthen understanding through application.
+Each case study presents a problem to solve, explains the underlying concepts, and walks through practical implementation while highlighting best practices and commonly used patterns.
+
+
 
 ### Phase 3: Practical Learning - Projects (Required)
-**What it is**: Contributing to real-world applications
-**What you'll do**: Work with VLED Lab developers on actual projects
-**Goal**: Gain production-level experience and build portfolio-worthy work
+Projects form a core part of the learning experience. Instead of standalone assignments, you will contribute to ongoing real-world projects, working on specific features alongside our development team. This hands-on approach allows you to gain practical experience with production-level code, workflows, and collaboration practices. These contributions are designed to be portfolio-worthy and reflect the skills and expectations of a full-stack developer
 
 ---
 
